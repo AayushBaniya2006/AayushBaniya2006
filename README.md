@@ -1,106 +1,151 @@
-<!-- ===== Animated Header Banner ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:121212,100:000000&text=%20&fontColor=ffffff&section=header" width="100%" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey,%20I'm%20Aayush&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20the%20future,%20one%20commit%20at%20a%20time&descAlignY=55&descSize=15" width="100%" />
+</div>
 
-<h1 align="center">👋 Hey, I'm Aayush</h1>
+<div align="center">
+  
+### 🎓 **Computer Science + Mathematics** @ University of Texas at Austin
+### 🚀 **Building, breaking, and scaling** at the intersection of **AI**, **startups**, and **systems**
 
-<!-- Typing line (animated) -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=24&duration=2300&pause=900&center=true&vCenter=true&width=920&lines=CS+%2B+Math+%40+UT+Austin;AI+%E2%9A%A1%EF%B8%8F+Startups+%E2%9A%A1%EF%B8%8F+Systems;iOS+%2B+Web+dev+%7C+Quant+tinkerer+%7C+Security+curious" alt="typing" />
-</p>
+<br>
 
-<!-- Thin animated divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=1a1a1a&section=footer&text=%20" width="62%"/>
-</p>
-
-<!-- Tagline -->
-<p align="center">
-  💻 <b>CS + Math @ UT Austin</b><br/>
-  🚀 Building, breaking, and scaling at the intersection of <b>AI</b>, <b>startups</b>, and <b>systems</b><br/>
-  ⚡ Startup builder · Quant tinkerer · iOS + Web dev · Security curious
-</p>
-
-<!-- Animated “glitch” nameplate -->
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Aayush%20Baniya&width=920&height=160" alt="glitch banner"/>
-</p>
-
-<!-- Abstract looping “3D-ish” motion (no setup) -->
-<p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="820" alt="abstract loop"/>
-</p>
+</div>
 
 ---
 
-## 🚀 What I’m Up To
-- 🔬 Researching **LLM reasoning** & AI alignment  
-- 📱 Shipping **FitCheck** — a social outfit-sharing app  
-- 🤖 Building AI agents & tools for real-world automation  
-- 📈 Trading bot experiments & market strategies  
-- 🔒 Deep-diving into **cybersecurity** & privilege escalation  
+<div align="center">
+
+## 🔥 **What I'm Currently Building**
+
+<table align="center">
+<tr>
+<td width="50%" align="center">
+
+**🔬 Research & AI**
+- LLM reasoning & AI alignment
+- Building intelligent agents for automation
+- Exploring the frontiers of machine consciousness
+
+</td>
+<td width="50%" align="center">
+
+**📱 Startup Ventures**
+- **FitCheck**: Social outfit-sharing app
+- Fintech experiments with quant strategies
+- Privacy-first blockchain solutions
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+**🛠️ Technical Exploration**
+- iOS + Web development
+- Cybersecurity research (privesc)
+- Systems architecture & scaling
+
+</td>
+<td width="50%" align="center">
+
+**🎯 Always Learning**
+- Quantitative trading strategies
+- Advanced cryptography
+- Next-gen web technologies
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 🛠 Tech I Use
-<details>
-<summary><b>Languages</b> (tap to expand)</summary>
+<div align="center">
 
-![Python](https://img.shields.io/badge/-Python-111?logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-111?logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-111?logo=typescript)
-![Java](https://img.shields.io/badge/-Java-111?logo=java)
-![Swift](https://img.shields.io/badge/-Swift-111?logo=swift)
+## 🛠️ **Tech Arsenal**
 
-</details>
-
-<details>
-<summary><b>Frameworks & Tools</b> (tap to expand)</summary>
-
-![React](https://img.shields.io/badge/-React-111?logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-111?logo=next.js)
-![Expo](https://img.shields.io/badge/-Expo-111?logo=expo)
-![Firebase](https://img.shields.io/badge/-Firebase-111?logo=firebase)
-![ROS](https://img.shields.io/badge/-ROS-111?logo=ros)
-![Docker](https://img.shields.io/badge/-Docker-111?logo=docker)
-
-</details>
-
-<!-- Animated neon ribbon -->
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=Currently%20building...&width=900&height=120" alt="rainbow banner"/>
+### **Languages**
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
 </p>
 
+### **Frameworks & Tools**
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+</p>
+
+### **AI & Data Science**
+<p>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+</div>
+
 ---
 
-## 📂 Repos You Should Check Out
-<!-- 
-Temporarily hidden. Uncomment and replace YOUR_USERNAME with your handle.
+<div align="center">
 
-- [**FitCheck**](https://github.com/YOUR_USERNAME/FitCheck) — Anonymous outfit-sharing social app built in React Native + Firebase  
-- [**EchoMind**](https://github.com/YOUR_USERNAME/EchoMind) — Local AI assistant that learns your digital habits & automates tasks  
-- [**OnionUSD-P**](https://github.com/YOUR_USERNAME/OnionUSD-P) — Privacy-preserving stablecoin on Solana using Confidential Transfers  
-- [**IMC Trading Bot**](https://github.com/YOUR_USERNAME/imc-prosperity-bot) — Multi-strategy bot for the IMC Prosperity trading challenge  
+## 🌟 **Featured Projects**
+
+| Project | Description | Tech Stack | Status |
+|---------|-------------|------------|--------|
+| 🔒 **FitCheck** | Anonymous outfit-sharing social app | React Native, Firebase | 🚧 In Development |
+| 🤖 **EchoMind** | Local AI assistant for habit automation | Python, PyTorch, FastAPI | 💡 Planning |
+| 🪙 **OnionUSD-P** | Privacy-preserving stablecoin | Solana, Rust, Solidity | 🔬 Research |
+| 📈 **Trading Bot** | Multi-strategy quantitative trading | Python, NumPy, Pandas | ✅ Complete |
+
+</div>
+
+---
+
+<!-- ## 📊 **GitHub Activity**
+
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AayushBaniya2006&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AayushBaniya2006&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</div>
 -->
 
-> Curated list coming soon. Check my pinned repos 👇
-
 ---
 
-## 🌎 Connect With Me
-<p>
-<a href="https://linkedin.com/in/aayush">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A0A0A?logo=linkedin&logoColor=white" />
+<div align="center">
+
+## 🤝 **Let's Connect & Build Together**
+
+<a href="https://www.linkedin.com/in/aayush-baniya-a30551223">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;
 <a href="mailto:thisisaayushbaniya@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-0A0A0A?logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-</p>
 
-<!-- Animated footer wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:000000,50:121212,100:000000&text=%20&section=footer" width="100%"/>
-</p>
+<br><br>
 
-<!-- Quote -->
-<p align="center"><i>“The best way to predict the future is to build it.”</i></p>
+### 💭 *"The best time to plant a tree was 20 years ago. The second best time is now."*
+
+**Open to collaborating on:**
+
+🤖 AI/ML projects and research  
+🚀 Early-stage startup ventures  
+🔧 Open source contributions  
+📚 Knowledge sharing & mentorship
+
+<img src="https://komarev.com/ghpvc/?username=AayushBaniya2006&color=blueviolet&style=for-the-badge&label=Profile+Views" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
