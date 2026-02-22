@@ -38,32 +38,57 @@ I am a CS + Math student at UT Austin focused on AI systems, infrastructure, and
 I build products and research prototypes where behavior is measurable, failure modes are visible, and performance holds under stress.
 </p>
 
----
-
 <div align="center">
 
-## Right Now
+## Tech Stack
 
 </div>
 
-**Research**
+<h3 align="center">Languages</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=302D41" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=302D41" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=302D41" />
+<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=302D41" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=302D41" />
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white&labelColor=302D41" />
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=302D41" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=302D41" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=302D41" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=302D41" />
+</p>
 
-- [TST-Mechanistic-Interpretability](https://github.com/AayushBaniya2006/TST-Mechanistic-Interpretability)
-  Activation patching on Time Series Transformers to separate truly causal attention heads from statistical false positives.
+<h3 align="center">Frameworks & Systems</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=302D41" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=302D41" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=302D41" />
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white&labelColor=302D41" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=302D41" />
+<img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white&labelColor=302D41" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=302D41" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=302D41" />
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=302D41" />
+<img src="https://img.shields.io/badge/Railway-0E1145?style=for-the-badge&logo=railway&logoColor=white&labelColor=302D41" />
+</p>
 
-- [ldos_manip_tracing](https://github.com/AayushBaniya2006/ldos_manip_tracing)
-  ROS 2 performance analysis with LTTng kernel tracing to measure manipulation reliability under CPU contention and DDS flooding.
+<h3 align="center">AI & Data</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=302D41" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=302D41" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=302D41" />
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white&labelColor=302D41" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=302D41" />
+<img src="https://img.shields.io/badge/LangChain-1C3133?style=for-the-badge&logo=langchain&logoColor=white&labelColor=302D41" />
+</p>
 
-**Building**
-
-- [aImsg](https://aimsg.dev/)
-  Manage GitHub repos from your phone through iMessage: review PRs, query codebases, propose edits, and open PRs without a laptop.
-
-- [Open Applier](https://blissful-warmth-production-db8f.up.railway.app/)
-  AI-powered job search and application automation: discover matching roles, tailor resumes for ATS scoring, and submit end-to-end.
-
-- [BlinkFund](https://blinkfund.vercel.app/)
-  Goal-based crowdfunding on Solana with deadlines, transparency, and native Twitter/X distribution through Solana Blinks.
+<h3 align="center">Blockchain & Crypto</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white&labelColor=302D41" />
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=302D41" />
+<img src="https://img.shields.io/badge/Polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=white&labelColor=302D41" />
+<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white&labelColor=302D41" />
+</p>
 
 ---
 
@@ -127,6 +152,13 @@ Privacy payroll platform using Solana Token-2022's confidential transfer extensi
 
 <div align="center">
 
+  <img src="./assets/kinetic-banner.svg" width="100%" alt="Animated systems banner" />
+</div>
+
+---
+
+<div align="center">
+
 ## Focus Areas
 
 </div>
@@ -168,73 +200,11 @@ Privacy payroll platform using Solana Token-2022's confidential transfer extensi
 
 <div align="center">
 
-## Tech Stack
-
-</div>
-
-<h3 align="center">Languages</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=302D41" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=302D41" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=302D41" />
-<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=302D41" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=302D41" />
-<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white&labelColor=302D41" />
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=302D41" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=302D41" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=302D41" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=302D41" />
-</p>
-
-<h3 align="center">Frameworks & Systems</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=302D41" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=302D41" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=302D41" />
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white&labelColor=302D41" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=302D41" />
-<img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white&labelColor=302D41" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=302D41" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=302D41" />
-<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=302D41" />
-<img src="https://img.shields.io/badge/Railway-0E1145?style=for-the-badge&logo=railway&logoColor=white&labelColor=302D41" />
-</p>
-
-<h3 align="center">AI & Data</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=302D41" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=302D41" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=302D41" />
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white&labelColor=302D41" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=302D41" />
-<img src="https://img.shields.io/badge/LangChain-1C3133?style=for-the-badge&logo=langchain&logoColor=white&labelColor=302D41" />
-</p>
-
-<h3 align="center">Blockchain & Crypto</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white&labelColor=302D41" />
-<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=302D41" />
-<img src="https://img.shields.io/badge/Polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=white&labelColor=302D41" />
-<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white&labelColor=302D41" />
-</p>
-
----
-
-<div align="center">
-
 ## GitHub Stats
 
 </div>
 
 <img src="https://streak-stats.demolab.com?user=AayushBaniya2006&theme=tokyonight&hide_border=true" width="100%" />
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="./assets/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
-</div>
 
 ---
 
