@@ -29,6 +29,19 @@
 
 <div align="center">
 
+## About Me
+
+</div>
+
+<p align="center">
+I am a CS + Math student at UT Austin focused on AI systems, infrastructure, and security-minded engineering.
+I build products and research prototypes where behavior is measurable, failure modes are visible, and performance holds under stress.
+</p>
+
+---
+
+<div align="center">
+
 ## Right Now
 
 </div>
@@ -36,21 +49,21 @@
 **Research**
 
 - [TST-Mechanistic-Interpretability](https://github.com/AayushBaniya2006/TST-Mechanistic-Interpretability)
-  Activation patching on Time Series Transformers — finding out which "important" attention heads are actually false positives
+  Activation patching on Time Series Transformers to separate truly causal attention heads from statistical false positives.
 
 - [ldos_manip_tracing](https://github.com/AayushBaniya2006/ldos_manip_tracing)
-  ROS 2 performance analysis — profiling manipulation stacks under CPU contention with LTTng kernel tracing
+  ROS 2 performance analysis with LTTng kernel tracing to measure manipulation reliability under CPU contention and DDS flooding.
 
 **Building**
 
-- [aImsg](https://aimsg-production.up.railway.app/)
-  Manage GitHub repos from your phone through iMessage. Review PRs, query codebases, propose edits — all without opening a laptop.
+- [aImsg](https://aimsg.dev/)
+  Manage GitHub repos from your phone through iMessage: review PRs, query codebases, propose edits, and open PRs without a laptop.
 
 - [Open Applier](https://blissful-warmth-production-db8f.up.railway.app/)
-  AI-powered job application automation. Discover positions matching your qualifications, tailor resumes for ATS optimization, and submit automatically.
+  AI-powered job search and application automation: discover matching roles, tailor resumes for ATS scoring, and submit end-to-end.
 
 - [BlinkFund](https://blinkfund.vercel.app/)
-  Real crowdfunding on Solana with goals, deadlines, and progress tracking. Built on Solana Blinks for native Twitter/X integration.
+  Goal-based crowdfunding on Solana with deadlines, transparency, and native Twitter/X distribution through Solana Blinks.
 
 ---
 
@@ -76,30 +89,30 @@ Tracing-driven performance analysis for ROS 2 manipulation stacks. Measuring how
 
 ### Shipped Products
 
-#### [Open Applier](https://github.com/Watchtower-Labs/open-applier)
+#### [Open Applier](https://blissful-warmth-production-db8f.up.railway.app/)
 AI job application automation that discovers positions matching your qualifications, tailors resumes for ATS optimization, and submits applications automatically. Built with Next.js, Tailwind CSS, and progressive web app support. Dashboard with real-time metrics on job discovery and application status.
 
 `Shipped` `TypeScript` `Next.js` `Railway`
 
-#### [aImsg](https://github.com/Watchtower-Labs/aImsg)
+#### [aImsg](https://aimsg.dev/)
 Manage GitHub repos from your phone through text messages. Review PRs, query codebases, propose edits, and create pull requests — all without opening a laptop. Supports Claude, GPT, and Gemini via your own API keys. Commands like `/review`, `/ask`, `/edit`, `/pr` with severity-ranked feedback. AES-256-GCM encrypted, code processes in-memory only, changes always go to feature branches.
 
 `Shipped` `TypeScript` `Railway`
 
-#### [BlinkFund](https://github.com/Watchtower-Labs/blinkfund)
+#### [BlinkFund](https://blinkfund.vercel.app/)
 Real crowdfunding on Solana with goals, deadlines, and progress tracking — not just tip jars, but accountable fundraising. Built on Solana Blinks for native Twitter/X integration where campaigns render as interactive cards with one-tap donations. Features: verified creators, non-custodial transfers, transparent donation history, and 2% platform fee.
 
 `Shipped` `TypeScript` `Solana` `Railway`
 
-#### [code-review-agent](https://github.com/Watchtower-Labs/code-review-agent)
-AI-powered code review agent for GitHub repositories. Analyzes pull requests automatically and provides actionable feedback. Part of the AI tooling ecosystem.
+#### [StockAndCrypto_TradingBots](https://github.com/AayushBaniya2006/StockAndCrypto_TradingBots)
+Trading bots for crypto and equities with portfolio controls, risk management (stop-loss/take-profit), and multi-exchange market monitoring.
 
-`Shipped` `TypeScript`
+`Public` `TypeScript` `Python`
 
-#### [clothingapp](https://github.com/Watchtower-Labs/clothingapp)
-Clothing and fashion e-commerce platform with inventory management, product catalog, and customer experience features.
+#### [Helpmandu](https://github.com/AayushBaniya2006/Helpmandu)
+Home-services marketplace app built with Flutter, connecting users to vetted professionals across repair, design, and inspection workflows.
 
-`Shipped` `TypeScript`
+`Public` `Dart` `Flutter`
 
 ---
 
@@ -118,17 +131,38 @@ Privacy payroll platform using Solana Token-2022's confidential transfer extensi
 
 </div>
 
-| AI & Reasoning Systems | Crypto & Financial Primitives |
-| :--- | :--- |
-| • Visual execution of abstract reasoning | • Micro-crowdfunding via Solana Blinks |
-| • Agent workflows & tool-calling behavior | • Privacy-preserving stablecoin research |
-| • Making reasoning observable, not opaque | • Incentives, UX, and adversarial environments |
-
-| Systems & Infra | Security as a Lens |
-| :--- | :--- |
-| • Local-first systems (latency, control, privacy) | • Linux internals & privilege escalation |
-| • Debugging where abstractions leak | • Understanding systems by breaking them |
-| • Performance and correctness under constraints | • Treating security as systems education |
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" valign="top" width="420">
+        <strong>AI & Reasoning Systems</strong><br><br>
+        • Visual execution of abstract reasoning<br>
+        • Agent workflows & tool-calling behavior<br>
+        • Making reasoning observable, not opaque
+      </td>
+      <td align="center" valign="top" width="420">
+        <strong>Crypto & Financial Primitives</strong><br><br>
+        • Micro-crowdfunding via Solana Blinks<br>
+        • Privacy-preserving stablecoin research<br>
+        • Incentives, UX, and adversarial environments
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="420">
+        <strong>Systems & Infra</strong><br><br>
+        • Local-first systems (latency, control, privacy)<br>
+        • Debugging where abstractions leak<br>
+        • Performance and correctness under constraints
+      </td>
+      <td align="center" valign="top" width="420">
+        <strong>Security as a Lens</strong><br><br>
+        • Linux internals & privilege escalation<br>
+        • Understanding systems by breaking them<br>
+        • Treating security as systems education
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -138,31 +172,50 @@ Privacy payroll platform using Solana Token-2022's confidential transfer extensi
 
 </div>
 
-### Languages
-<p>
+<h3 align="center">Languages</h3>
+<p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=302D41" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=302D41" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=302D41" />
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=302D41" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=302D41" />
 <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white&labelColor=302D41" />
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=302D41" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=302D41" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=302D41" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=302D41" />
 </p>
 
-### Frameworks & Systems
-<p>
+<h3 align="center">Frameworks & Systems</h3>
+<p align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=302D41" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=302D41" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=302D41" />
 <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white&labelColor=302D41" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=302D41" />
 <img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white&labelColor=302D41" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=302D41" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=302D41" />
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=302D41" />
+<img src="https://img.shields.io/badge/Railway-0E1145?style=for-the-badge&logo=railway&logoColor=white&labelColor=302D41" />
 </p>
 
-### AI & Data
-<p>
+<h3 align="center">AI & Data</h3>
+<p align="center">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=302D41" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=302D41" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=302D41" />
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white&labelColor=302D41" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=302D41" />
+<img src="https://img.shields.io/badge/LangChain-1C3133?style=for-the-badge&logo=langchain&logoColor=white&labelColor=302D41" />
+</p>
+
+<h3 align="center">Blockchain & Crypto</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white&labelColor=302D41" />
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=302D41" />
+<img src="https://img.shields.io/badge/Polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=white&labelColor=302D41" />
+<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white&labelColor=302D41" />
 </p>
 
 ---
@@ -173,12 +226,15 @@ Privacy payroll platform using Solana Token-2022's confidential transfer extensi
 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AayushBaniya2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=500&title_color=B873FF&text_color=E2E8F0&icon_color=B873FF&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayushBaniya2006&layout=compact&theme=tokyonight&hide_border=true&card_width=500&title_color=B873FF&text_color=E2E8F0&icon_color=B873FF&bg_color=0D1117" width="48%" />
-</div>
+<img src="https://streak-stats.demolab.com?user=AayushBaniya2006&theme=tokyonight&hide_border=true" width="100%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AayushBaniya2006&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=B873FF&currStreakNum=B873FF&currStreakLabel=E2E8F0&sideNums=B873FF&sideLabels=E2E8F0" width="100%" />
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="./assets/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
 
 ---
 
