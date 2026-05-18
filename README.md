@@ -2,7 +2,7 @@
 
 CS + Math @ UT Austin. Building [OpenApplier](https://www.openapplier.com) — AI that applies to jobs for you.
 
-[aayushbaniya.com](https://aayushbaniya.com) · [X](https://x.com/aayushcb) · [LinkedIn](https://www.linkedin.com/in/aayush-baniya-a30551223) · thisisaayushbaniya@gmail.com
+[aayushswebsite.vercel.app](https://aayushswebsite.vercel.app) · [X](https://x.com/aayushcb) · [LinkedIn](https://www.linkedin.com/in/aayush-baniya-a30551223) · thisisaayushbaniya@gmail.com
 
 ---
 
