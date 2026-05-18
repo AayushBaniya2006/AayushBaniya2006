@@ -6,16 +6,6 @@ CS + Math @ UT Austin. Building [Open Applier](https://www.openapplier.com).
 
 ---
 
-### Experience
-
-- **Security Analyst Intern**, UT Austin RSOC — Jun 2025 – present. Windows/Linux internals, Active Directory, enumeration, web exploitation labs.
-- **iOS Engineering Intern**, MyFutureSelf — Jul – Oct 2025. 3-tier StoreKit paywall + 20+ SwiftUI onboarding flows; app reached 5K+ users at 4.7★.
-- **Undergraduate Researcher**, UT Austin Learning-Directed OS Lab — Dec 2024 – present. ROS 2 tracing on CloudLab (32-core EPYC); DDS as the dominant LDoS surface.
-- **Independent Researcher**, BlueDot Impact AISF — Jan – Feb 2026. Statistical pipeline (bootstrap + FDR + Cohen's d) for activation patching on a Time Series Transformer.
-- **Academic Advisor**, Lambda Chi Alpha — Jan – May 2025. Raised chapter GPA 3.1 → 3.3, $5K budget.
-
----
-
 ### Selected work
 
 **[Open Applier](https://www.openapplier.com)** · Rust + Next.js · Postgres · Redis · Stripe · Chrome extension
@@ -45,12 +35,26 @@ Tracing-driven performance analysis of ROS 2 manipulation under DDS flood. Ident
 
 ---
 
+### Experience
+
+- **Security Analyst Intern**, UT Austin RSOC — Jun 2025 – present. Windows/Linux internals, Active Directory, enumeration, web exploitation labs.
+- **iOS Engineering Intern**, MyFutureSelf — Jul – Oct 2025. 3-tier StoreKit paywall + 20+ SwiftUI onboarding flows; app reached 5K+ users at 4.7★.
+- **Undergraduate Researcher**, UT Austin Learning-Directed OS Lab — Dec 2024 – present. ROS 2 tracing on CloudLab (32-core EPYC); DDS as the dominant LDoS surface.
+- **Independent Researcher**, BlueDot Impact AISF — Jan – Feb 2026. Statistical pipeline (bootstrap + FDR + Cohen's d) for activation patching on a Time Series Transformer.
+- **Academic Advisor**, Lambda Chi Alpha — Jan – May 2025. Raised chapter GPA 3.1 → 3.3, $5K budget.
+
+---
+
 ### Tech skills
 
 **Languages** — Rust · Python · TypeScript · JavaScript · Swift · Java · C++ · Go · Solidity · SQL · Dart
+
 **Frameworks** — React · Next.js · Node.js · SwiftUI · Flutter · Tailwind · PyTorch · LangChain · Anchor
+
 **Infra & tools** — PostgreSQL · Redis · Docker · Kubernetes · AWS · GCP · Railway · Stripe · StoreKit 2 · Tectonic · ROS 2 · LTTng · FlameGraph · CloudLab · PostHog · Sentry
+
 **AI / ML** — NumPy · Pandas · scikit-learn · SciPy · Hugging Face · OpenAI / Anthropic / Gemini SDKs · Vertex AI
+
 **Blockchain** — Solana (Token-2022, Blinks) · Ethereum · Web3.js
 
 ---
