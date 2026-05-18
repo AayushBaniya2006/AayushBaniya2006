@@ -1,6 +1,6 @@
 # Aayush Baniya
 
-CS + Math @ UT Austin (University Honors). Founder of [Watchtower Labs](https://github.com/Watchtower-Labs), building [Open Applier](https://www.openapplier.com).
+CS + Math @ UT Austin (University Honors). Building [Open Applier](https://www.openapplier.com).
 
 [aayushswebsite.vercel.app](https://aayushswebsite.vercel.app/) · [X](https://x.com/aayushcb) · [LinkedIn](https://www.linkedin.com/in/aayush-baniya-a30551223) · thisisaayushbaniya@gmail.com
 
@@ -43,7 +43,6 @@ Tracing-driven performance analysis of ROS 2 manipulation under DDS flood. Ident
 
 ### Experience
 
-- **Founder**, [Watchtower Labs](https://github.com/Watchtower-Labs) — Dec 2025 – present. Solo-founded org behind Open Applier, aImsg, and Watchtower CLI. 4-person team, 7 repos.
 - **Security Analyst Intern**, UT Austin RSOC — Jun 2025 – present. Windows/Linux internals, Active Directory, enumeration, web exploitation labs.
 - **iOS Engineering Intern**, MyFutureSelf — Jul – Oct 2025. 3-tier StoreKit paywall + 20+ SwiftUI onboarding flows; app reached 5K+ users at 4.7★.
 - **Undergraduate Researcher**, UT Austin Learning-Directed OS Lab — Dec 2024 – present. ROS 2 tracing on CloudLab (32-core EPYC); DDS as the dominant LDoS surface.
