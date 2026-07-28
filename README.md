@@ -8,6 +8,8 @@ CS + Math @ UT Austin. Software Engineer at [DeepInvent](https://deepinvent.ai) 
 
 ### Selected work
 
+_Everything here except the DeepInvent role is a past or retired project._
+
 **[DeepInvent](https://deepinvent.ai)** · Python · Multi-cloud GPU · Agent orchestration
 Software Engineer, May 2026 – present. I build the agent core: give it an arXiv ID and it reproduces the paper end to end. 19 model-callable primitives, the paper held as a REPL variable the model never sees in its context, and a result only passes when the measured on-disk evidence backs it — the model's own grade doesn't count. I also built the multi-cloud GPU layer: one sandbox over local, Docker, GCP, and Azure/AKS, with a scheduler that pins each job to a single GPU, drops the batch size on CUDA OOM, and fails a job over from GCP to Azure when GCP runs out of capacity.
 
@@ -24,7 +26,7 @@ iOS engineering intern, Jul – Oct 2025. One of two engineers taking the app fr
 Confidential payroll on Solana's Token-2022 confidential-transfer extension. Bulk processing, USDC-backed pUSD stablecoin, revocable corporate transfer window. 1st place at OnionDAO ($3K).
 
 **[TST Mechanistic Interpretability](https://github.com/AayushBaniya2006/TST-Mechanistic-Interpretability)** · PyTorch
-Activation patching on a 96-class Time Series Transformer. 10,000-resample bootstrap CIs + Benjamini–Hochberg FDR + Cohen's d. Finding: most heads flagged "important" by naive patching don't survive proper statistical controls — rankings hold on simple tasks (Kendall tau 0.88) and fall apart on complex ones (0.48). Through BlueDot AISF, Jan – Feb 2026. [Write-up](https://thisisaayushbaniya.substack.com/p/most-important-attention-heads-in).
+Activation patching on a 96-class Time Series Transformer. 10,000-resample bootstrap CIs + Benjamini–Hochberg FDR + Cohen's d. Finding: most heads flagged "important" by naive patching don't survive proper statistical controls — rankings hold on simple tasks (Spearman rho 0.88) and fall apart on complex ones (0.48). Through BlueDot AISF, Jan – Feb 2026. [Write-up](https://thisisaayushbaniya.substack.com/p/most-important-attention-heads-in).
 
 **[ldos_manip_tracing](https://github.com/AayushBaniya2006/ldos_manip_tracing)** · ROS 2 · C++ · LTTng · CloudLab
 Tracing-driven analysis of a ROS 2 manipulation stack under DDS flood. DDS middleware is the primary low-rate DoS surface: 4,000 msg/s drove MoveIt on a simulated 7-DOF Panda to 100% execution failure, while replaying the same load under cgroups v2 on 32-core CloudLab nodes ruled CPU out. UT Learning-Directed OS Lab, Dec 2024 – May 2026.
