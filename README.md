@@ -1,6 +1,6 @@
 # Aayush Baniya
 
-CS + Math @ UT Austin (University Honors). Software Engineer at [DeepInvent](https://deepinvent.ai) — building agents that reproduce ML papers from an arXiv ID. Founder of [Open Applier](https://www.openapplier.com).
+CS + Math @ UT Austin. Software Engineer at [DeepInvent](https://deepinvent.ai) — building agents that reproduce ML papers from an arXiv ID.
 
 [aayushswebsite.vercel.app](https://aayushswebsite.vercel.app/) · [X](https://x.com/aayushcb) · [LinkedIn](https://www.linkedin.com/in/aayush-baniya-a30551223) · thisisaayushbaniya@gmail.com
 
@@ -11,11 +11,11 @@ CS + Math @ UT Austin (University Honors). Software Engineer at [DeepInvent](htt
 **[DeepInvent](https://deepinvent.ai)** · Python · Multi-cloud GPU · Agent orchestration
 Software Engineer, May 2026 – present. I build the agent core: give it an arXiv ID and it reproduces the paper end to end. 19 model-callable primitives, the paper held as a REPL variable the model never sees in its context, and a result only passes when the measured on-disk evidence backs it — the model's own grade doesn't count. I also built the multi-cloud GPU layer: one sandbox over local, Docker, GCP, and Azure/AKS, with a scheduler that pins each job to a single GPU, drops the batch size on CUDA OOM, and fails a job over from GCP to Azure when GCP runs out of capacity.
 
-**[Open Applier](https://www.openapplier.com)** · Rust + Next.js · Postgres · Redis · Stripe · Chrome extension
-Job applications you still approve, minus the typing. Rust/Axum core with tenant-scoped Postgres RLS, idempotent Stripe billing, and an LLM tailoring pipeline with real cost rails (kill switch, per-call ceilings, daily caps); LaTeX rendered through Tectonic; a Chrome extension fills and submits on the employer's own site. 500+ users, 5,000+ applications, 95% submission success across 8+ ATS (Workday, Greenhouse, Lever, Ashby). Building with Abheek Pradhan — I own the Rust core, LLM pipeline, ATS integrations, LaTeX renderer, and frontend.
+**[Open Applier](https://aayushswebsite.vercel.app/archive/openapplier)** · Rust + Next.js · Postgres · Redis · Stripe · Chrome extension · *retired*
+Job applications you still approved, minus the typing. Rust/Axum core with tenant-scoped Postgres RLS, idempotent Stripe billing, and an LLM tailoring pipeline with real cost rails (kill switch, per-call ceilings, daily caps); LaTeX rendered through Tectonic; a Chrome extension filled and submitted on the employer's own site. Reached 500+ users, 5,000+ applications, and 95% submission success across 8+ ATS (Workday, Greenhouse, Lever, Ashby) before I wound it down. Built with Abheek Pradhan — I owned the Rust core, LLM pipeline, ATS integrations, LaTeX renderer, and frontend.
 
-**[aImsg](https://aimsg.dev)** · TypeScript · Stripe
-Code from iMessage — link a repo, ask questions about it, review PRs, and ship edits from your phone. Multi-provider (Claude / GPT / Gemini) with BYOK and automatic failover, Stripe-billed tiers. Live at aimsg.dev.
+**[aImsg](https://aayushswebsite.vercel.app/archive/aimsg)** · TypeScript · Next.js · *retired*
+A messaging layer for coding agents — you texted a GitHub repo over iMessage and it answered: questions about the code, PR reviews, edits shipped from your phone, multi-provider with failover. Built in 2025, before Apple sanctioned any third-party AI agent inside iMessage (that arrived March 2026). It never scaled: iMessage has no official API, so the only routes are fragile Mac relays or reverse-engineering the protocol — and Apple shuts those down.
 
 **MyFutureSelf** · Swift · SwiftUI · StoreKit
 iOS engineering intern, Jul – Oct 2025. One of two engineers taking the app from zero to 5,000+ users and 500+ App Store reviews at 4.7★. Owned the SwiftUI launch flows and Firebase sync, and built three StoreKit 2 subscription tiers with server-side receipt validation.
@@ -24,7 +24,7 @@ iOS engineering intern, Jul – Oct 2025. One of two engineers taking the app fr
 Confidential payroll on Solana's Token-2022 confidential-transfer extension. Bulk processing, USDC-backed pUSD stablecoin, revocable corporate transfer window. 1st place at OnionDAO ($3K).
 
 **[TST Mechanistic Interpretability](https://github.com/AayushBaniya2006/TST-Mechanistic-Interpretability)** · PyTorch
-Activation patching on a 96-class Time Series Transformer. 10,000-resample bootstrap CIs + Benjamini–Hochberg FDR + Cohen's d. Finding: most heads flagged "important" by naive patching don't survive proper statistical controls — rankings hold on simple tasks (Kendall tau 0.88) and fall apart on complex ones (0.48). Through BlueDot AISF, Jan – Feb 2026.
+Activation patching on a 96-class Time Series Transformer. 10,000-resample bootstrap CIs + Benjamini–Hochberg FDR + Cohen's d. Finding: most heads flagged "important" by naive patching don't survive proper statistical controls — rankings hold on simple tasks (Kendall tau 0.88) and fall apart on complex ones (0.48). Through BlueDot AISF, Jan – Feb 2026. [Write-up](https://thisisaayushbaniya.substack.com/p/most-important-attention-heads-in).
 
 **[ldos_manip_tracing](https://github.com/AayushBaniya2006/ldos_manip_tracing)** · ROS 2 · C++ · LTTng · CloudLab
 Tracing-driven analysis of a ROS 2 manipulation stack under DDS flood. DDS middleware is the primary low-rate DoS surface: 4,000 msg/s drove MoveIt on a simulated 7-DOF Panda to 100% execution failure, while replaying the same load under cgroups v2 on 32-core CloudLab nodes ruled CPU out. UT Learning-Directed OS Lab, Dec 2024 – May 2026.
@@ -46,7 +46,7 @@ Tracing-driven analysis of a ROS 2 manipulation stack under DDS flood. DDS middl
 - **Software Engineer**, DeepInvent — May 2026 – present. Agent core for reproducing ML papers from an arXiv ID (19 model-callable primitives, evidence-gated results); multi-cloud GPU layer over local / Docker / GCP / Azure-AKS with an OOM-aware, GCP → Azure failover scheduler.
 - **iOS Engineering Intern**, MyFutureSelf — Jul – Oct 2025. Three StoreKit 2 subscription tiers with server-side receipt validation and 20+ SwiftUI onboarding flows; app reached 5K+ users at 4.7★.
 - **Undergraduate Researcher**, UT Austin Learning-Directed OS Lab — Dec 2024 – May 2026. ROS 2 tracing on 32-core CloudLab nodes; found DDS saturation, not CPU, to be the dominant low-rate DoS surface.
-- **Independent Researcher**, BlueDot Impact AISF — Jan – Feb 2026. Bootstrap CIs + Benjamini–Hochberg FDR + Cohen's d to separate real attention-head effects from statistical noise on a Time Series Transformer.
+- **Independent Researcher**, BlueDot Impact AISF — Jan – Feb 2026. Bootstrap CIs + Benjamini–Hochberg FDR + Cohen's d to separate real attention-head effects from statistical noise on a Time Series Transformer. [Write-up](https://thisisaayushbaniya.substack.com/p/most-important-attention-heads-in).
 
 ---
 
