@@ -37,7 +37,7 @@ Tracing-driven analysis of a ROS 2 manipulation stack under DDS flood. DDS middl
 
 - **OnionDAO** — 1st place, $3K (OnionUSDp)
 - **Nepali Leaders of America** — 1st place, $1.5K (VoiceCanvas)
-- **Antler × Codex** — 2nd place, $2K in DeepInvent credits (ReproLab)
+- **Antler × Codex** — 2nd place, $2K (ReproLab)
 - **LaunchD** — 2nd place, $500 + residency interview (Agent Graph, with Armaan Amatya & Abheek Pradhan)
 - **Akash Network** — 3rd place, $500 (Change-Aware Auditor)
 
